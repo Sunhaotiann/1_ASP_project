@@ -1,4 +1,1 @@
-
-print("hello world")
-
-print("HELLOOOOOO")
+print("im so dead")
